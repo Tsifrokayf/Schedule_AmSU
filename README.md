@@ -34,11 +34,10 @@
 
 > На скриншотах вымышленные данные: студент «Иванов Иван Иванович», преподаватели «Петров Пётр Петрович» и т. п.
 
-| | | |
-|:-:|:-:|:-:|
-| ![Расписание](screenshots/01-schedule.png) | ![Преподаватель](screenshots/02-teacher.png) | ![Сообщения Moodle](screenshots/03-messages.png) |
-| ![Виджеты](screenshots/04-widgets.png) | ![Студбилет](screenshots/05-student-card.png) | ![Любое расписание](screenshots/06-any-schedule.png) |
-| ![Обучение](screenshots/07-guide.png) | | |
+| | | | |
+|:-:|:-:|:-:|:-:|
+| ![Расписание](screenshots/01-schedule.png) | ![Виджеты](screenshots/04-widgets.png) | ![Преподаватель](screenshots/02-teacher.png) | ![Студбилет](screenshots/05-student-card.png) |
+| ![Сообщения Moodle](screenshots/03-messages.png) | ![Любое расписание](screenshots/06-any-schedule.png) | ![Обучение](screenshots/07-guide.png) | |
 
 ## Установка и обновление
 
