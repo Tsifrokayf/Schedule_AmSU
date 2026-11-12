@@ -4,7 +4,7 @@
 
 Effective date: October 26, 2026.
 
-"AmSU Schedule" (`com.schedule.of.AmSU`) is an app for viewing the class schedule of Amur State University (AmSU). Developer: Alexey Evgenievich Ryzhkin. Contact: lexa0549@gmail.com.
+"AmSU Schedule" (`com.schedule.of.AmSU`) is the official app of Amur State University (AmSU) for students, teachers and staff: class schedule, personal cabinet and university services. Developer: Alexey Evgenievich Ryzhkin. Contact: mobile@amursu.ru.
 
 ## Data stored on your device
 
@@ -32,11 +32,11 @@ Each permission is used only for the function described. You can revoke any perm
 
 ## Storage and deletion
 
-Local data is deleted when you uninstall the app or clear its data. To delete anonymous statistics records, write to lexa0549@gmail.com.
+Local data is deleted when you uninstall the app or clear its data. To delete anonymous statistics records, write to mobile@amursu.ru.
 
 ## Children
 
-The app is intended for university students and teachers and does not knowingly collect data from children under 13.
+The app is intended for university students, teachers and staff and does not knowingly collect data from children under 13.
 
 ## Changes
 
